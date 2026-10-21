@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0057B8,100:00D4FF&height=200&section=header&text=Mantraa%20K&fontSize=50&fontColor=00D4FF&fontAlignY=42&desc=Cyber%20Security%20%7C%20Security%20Engineering%20%7C%20AI%20%26%20Automation&descSize=18&descAlignY=62&descColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:006B35,100:00FF66&section=header&reversal=false&text=Mantraa%20K&textBg=false&fontSize=70&fontColor=00FF66&fontAlign=50&fontAlignY=45&rotate=0&strokeWidth=0&desc=Cyber%20Security%20%7C%20Security%20Engineering%20%7C%20AI%20%26%20Automation&descSize=20&descAlign=50&descAlignY=62&descColor=FFFFFF"
     alt="Mantraa K | Cyber Security, Security Engineering and AI"
     width="100%"
   />
