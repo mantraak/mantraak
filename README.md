@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0D1117&amp;section=header&amp;text=Mantraa%20K&amp;fontSize=60&amp;fontColor=00FF66&amp;desc=Cyber%20Security%20%7C%20Security%20Engineering%20%7C%20AI%20Automation&amp;descSize=18&amp;descColor=FFFFFF" alt="Mantraa K banner" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0D1117&amp;section=header&amp;text=Mantraa%20K&amp;fontSize=65&amp;fontColor=00FF66&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Cyber%20Security%20%7C%20Security%20Engineering%20%7C%20AI%20Automation&amp;descSize=18&amp;descAlign=50&amp;descAlignY=60&amp;descColor=FFFFFF"
+    alt="Mantraa K | Cyber Security, Security Engineering and AI"
+    width="100%"
+  />
 </p>
 
 ### Cybersecurity Student | Security Engineering | AI & Automation
