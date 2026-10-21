@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:0B0712,50:24103F,100:4B168C&amp;section=header&amp;text=Mantraa%20K&amp;fontSize=65&amp;fontColor=C77DFF&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=Cyber%20Security%20%7C%20Security%20Engineering%20%7C%20AI%20Automation&amp;descSize=18&amp;descAlign=50&amp;descAlignY=60&amp;descColor=E9DDF7"
-    alt="Mantraa K | Cyber Security, Security Engineering and AI"
+    alt="Mantraa K | Cyber Security, Security Engineer and AI"
     width="100%"
   />
 </p>
