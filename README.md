@@ -1,4 +1,10 @@
-# Mantraa
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0057B8,100:00D4FF&height=200&section=header&text=Mantraa%20K&fontSize=50&fontColor=00D4FF&fontAlignY=42&desc=Cyber%20Security%20%7C%20Security%20Engineering%20%7C%20AI%20%26%20Automation&descSize=18&descAlignY=62&descColor=FFFFFF"
+    alt="Mantraa K | Cyber Security, Security Engineering and AI"
+    width="100%"
+  />
+</p>
 
 ### Cybersecurity Student | Security Engineering | AI & Automation
 
