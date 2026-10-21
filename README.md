@@ -5,7 +5,6 @@
     width="100%"
   />
 </p>
-
 ### Cybersecurity Student | Security Engineering | AI & Automation
 
 I am a Computer Science Engineering student specializing in Cyber Security, interested in building practical security tools, intelligent systems, and reliable software.
