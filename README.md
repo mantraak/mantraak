@@ -121,8 +121,8 @@ I value methodical investigation, reproducible experiments, and documenting tech
 I am open to connecting with developers, security researchers, and teams working on cybersecurity, AI, and software engineering.
 
 - **GitHub:** [github.com/mantraak](https://github.com/mantraak)
-- **LinkedIn:** [Add your LinkedIn profile]((https://www.linkedin.com/in/mantraa-k-93180530b/))
-- **Email:** [Add your professional email](mantraa.k07@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/mantraa-k-93180530b/)
+- **Email:** (mantraa.k07@gmail.com)
 
 ---
 
